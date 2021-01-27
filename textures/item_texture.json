@@ -1,0 +1,9 @@
+{
+	"resource_pack_name": "adob",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"adob:heart": {
+			"textures": "textures/items/ruby"
+		}
+	}
+}
