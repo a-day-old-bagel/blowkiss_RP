@@ -3,7 +3,7 @@
 	"texture_name": "atlas.items",
 	"texture_data": {
 		"adob:heart": {
-			"textures": "textures/items/ruby"
+			"textures": "textures/items/ruby_heart"
 		}
 	}
 }

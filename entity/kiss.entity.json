@@ -7,7 +7,7 @@
         "default": "entity_alphatest"
       },
       "textures": {
-        "default": "textures/items/ruby"
+        "default": "textures/items/ruby_heart"
       },
       "geometry": {
         "default": "geometry.item_sprite"
